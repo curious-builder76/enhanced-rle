@@ -9,5 +9,3 @@ and does that effectively. However this compressor is still inefficent for
 daily life purposes.
 
 
-# enhanced-rle
-# enhanced-rle
